@@ -1,0 +1,6 @@
+{ "type" : "library" ,
+  "target" : "org.stdplus.iostreams" ,
+  "name" : "org.stdplus.iostreams",
+  "lflags" : [],
+  "dependencies" : [ ],
+  "header-only" : false }
